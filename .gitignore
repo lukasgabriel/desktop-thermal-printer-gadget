@@ -2,3 +2,5 @@ old/
 .theia/
 output/
 .vscode/
+tools/LCDAssistant.exe
+client/tools/picolittlefs.jar

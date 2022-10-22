@@ -4,3 +4,4 @@ output/
 .vscode/
 tools/LCDAssistant.exe
 client/tools/picolittlefs.jar
+client/tools/PicoLittleFS/tool/picolittlefs.jar
